@@ -1,0 +1,31 @@
+﻿cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE2"
+cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE2"
+cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE2"
+cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE2"
+  main.cpp
+cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE2"
+  imgui.cpp
+  imgui_draw.cpp
+cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE2"
+cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE2"
+cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE2"
+cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE2"
+  imgui_impl_dx11.cpp
+cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE2"
+cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE2"
+cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE2"
+  imgui_impl_win32.cpp
+  imgui_stdlib.cpp
+  imgui_widgets.cpp
+  buffer.c
+cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE2"
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Создание кода
+  Создание кода завершено
+detours.lib(detours.obj) : warning LNK4099: "detours.pdb" PDB не найден с "detours.lib(detours.obj)" или на "C:\Users\admin\Desktop\ghjerthunertibnuhr5ltighnrtelgh\x64\Release\detours.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+detours.lib(modules.obj) : warning LNK4099: "" PDB не найден с "detours.lib(modules.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+detours.lib(disasm.obj) : warning LNK4099: "detours.pdb" PDB не найден с "detours.lib(disasm.obj)" или на "C:\Users\admin\Desktop\ghjerthunertibnuhr5ltighnrtelgh\x64\Release\detours.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  DxDLLRender.vcxproj -> C:\Users\admin\Desktop\ghjerthunertibnuhr5ltighnrtelgh\x64\Release\Cheat.dll
